@@ -10,18 +10,18 @@
 
 ## _Schedule:_
 
-### Period 1: Spanish 5
+##### Period 1: Spanish 5
 
-### Period 2: Software 5
+##### Period 2: Software 5
 
-### Period 3: AP U.S
+##### Period 3: AP U.S
 
-### Period 4: AP Language
+##### Period 4: AP Language
 
-### Period 5: Lunch
+##### Period 5: Lunch
 
-### Period 6: Algebra II
+##### Period 6: Algebra II
 
-### Period 7: AP Chem
+##### Period 7: AP Chem
 
-### Period 8: AP science study
+##### Period 8: AP science study
