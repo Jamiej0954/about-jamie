@@ -29,7 +29,7 @@
 -------------
 ## **_Hobbies:_** 
 
-* Playing competitive tennis against other highschool
+* Playing competitive tennis against other highschool*  .. 
 > 1. Fort Hamilton
 > 2. FDR
 > 3. John Dewy
