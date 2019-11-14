@@ -27,7 +27,7 @@
 ##### Period 8: AP science study
 
 -------------
-## **Hobbies** 
+## **_Hobbies_** 
 
 * Playing competitive tennis against other highschool
 > 1. Fort Hamilton
