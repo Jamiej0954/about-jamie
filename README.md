@@ -1,4 +1,6 @@
-Jamie goes to school at HSTAT. She lives in Brooklyn, and she has 2 sister. You can contact her at Jamiej0954@hstat.org.
+Name: Jamie Jiang
+Email: Jamiej0954@hstat.org
+Bio: She lives in Brooklyn and goes to school HSTAT
 
 Schedule:
 
