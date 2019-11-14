@@ -1,6 +1,6 @@
-Name: Jamie Jiang
-Email: Jamiej0954@hstat.org
-Bio: She lives in Brooklyn and goes to school HSTAT
+**Name:** Jamie Jiang
+**Email:** Jamiej0954@hstat.org
+**Bio:** She lives in Brooklyn and goes to school HSTAT
 
 Schedule:
 
