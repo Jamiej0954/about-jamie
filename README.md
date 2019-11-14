@@ -6,7 +6,7 @@
 
 **Bio:** She lives in Brooklyn and goes to school [HSTAT](http://www.hstat.org/)
 
-
+----------
 
 Schedule:
 
