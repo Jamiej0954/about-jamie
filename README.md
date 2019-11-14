@@ -38,3 +38,6 @@
 
 * Reading books
   * Fiction, horror, scientific
+
+* Listening to music
+  * Instrumental music
