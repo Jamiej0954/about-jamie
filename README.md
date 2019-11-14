@@ -27,3 +27,12 @@
 ##### Period 8: AP science study
 
 -------------
+## **Hobbies** 
+
+* Playing competitive tennis against other highschool
+> 1. Fort Hamilton
+> 2. FDR
+> 3. John Dewy
+> 4. New Utrecht
+> 5. Lincoln
+*Reading books
