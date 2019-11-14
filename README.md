@@ -4,7 +4,7 @@
 **Email:** Jamiej0954@hstat.org
 
 
-**Bio:** She lives in Brooklyn and goes to school HSTAT
+**Bio:** She lives in Brooklyn and goes to school [HSTAT](http://www.hstat.org/)
 
 
 
